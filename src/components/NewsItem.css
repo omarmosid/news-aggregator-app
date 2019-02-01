@@ -1,0 +1,12 @@
+.card {
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.card-filter {
+    filter: brightness(45%);
+}
+
+/* .card-filter:hover {
+    filter: brightness(75%);
+} */
